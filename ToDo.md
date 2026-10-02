@@ -1,0 +1,19 @@
+# Indev 1 ToDo
+- RealMyst BepInEx Initialization
+- Pipe Protocol Planning
+- Build APWorld
+  - Regions
+  - Items
+  - Locations
+  - Logic
+  - Basic Client
+- RealMyst BepInEx Mod
+  - Pipe Connection
+  - Slot Data Storage
+  - Item Storage
+  - Location Sending
+  - Item Appending inGame
+  - QOL and Needed Patches
+- Client Additions
+  - Game Launching
+  - Mod Installation
